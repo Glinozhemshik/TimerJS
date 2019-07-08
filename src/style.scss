@@ -1,0 +1,28 @@
+body {
+    font-family: 'Sniglet', cursive;
+}
+.timer {
+    background-color: black;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.item {
+    padding: 2%;
+    font-size: 95px;
+    background-color: #15171a;
+    color: white;
+    border-radius: 10px;
+}
+
+.item-boom {
+    font-size: 112px;
+    border-radius: 10px;
+    color: white;
+}
